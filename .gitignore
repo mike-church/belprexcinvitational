@@ -7,9 +7,9 @@
 Thumbs.db
 .htaccess
 
+2021-backup.html
+
 #Ignore Directories
 
 /src
 /sass
-
-
